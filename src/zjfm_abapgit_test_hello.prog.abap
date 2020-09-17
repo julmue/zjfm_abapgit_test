@@ -9,3 +9,5 @@ write: 'hello world!'.
 write: 'This is the first change ...'.
 
 write: 'I am a hotfix'.
+
+write: 'this is an awesome new feature!'.
